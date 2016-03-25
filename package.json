@@ -1,0 +1,34 @@
+{
+  "name": "webpack-angular-material",
+  "version": "0.0.1",
+  "description": "Single include for angular-material with all dependancies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/webpack-angular-material.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular-material"
+  ],
+  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/webpack-angular-material/issues"
+  },
+  "homepage": "https://github.com/codigi/webpack-angular-material#readme",
+  "dependencies": {
+    "angular": "^1.5.2",
+    "angular-animate": "^1.5.2",
+    "angular-aria": "^1.5.2",
+    "angular-material": "^1.0.6",
+    "angular-messages": "^1.5.2",
+    "css-loader": "^0.23.1",
+    "jquery": "^2.2.2",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {}
+}
