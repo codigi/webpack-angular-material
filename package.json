@@ -26,9 +26,7 @@
     "angular-aria": "^1.5.2",
     "angular-material": "^1.0.6",
     "angular-messages": "^1.5.2",
-    "css-loader": "^0.23.1",
-    "jquery": "^2.2.2",
-    "style-loader": "^0.13.1"
+    "jquery": "^2.2.2"
   },
   "devDependencies": {}
 }
